@@ -1,10 +1,16 @@
-# [react-sort-visualizer](https://lexesjan.github.io/react-sort-visualizer/)
+# Graphical Quick Sort React
 
-[![banner](data/sort.gif)](https://lexesjan.github.io/react-sort-visualizer/)
+[![banner](https://quera.ir/qbox/view/pSJ5auFLQ6/sort-vis.gif)]
 
-I built this application as I was interested in how the various sorting algorithms we use looked like when visualized. This project also helped me greatly to learn JavaScript, HTML and CSS. [Link to website](https://lexesjan.github.io/react-sort-visualizer/).
+a simple react app that shows you how "quick sort" algorithm sorts a set of numbers step by step
 
-  ## Built with
-  - JavaScript - The code language used
-  - [ReactJS](https://reactjs.org/) - JavaScript library used to build the user interface
- 
+## Built with
+
+- JavaScript - The code language used
+- [ReactJS](https://reactjs.org/) - JavaScript library used to build the user interface
+
+## Installition
+
+- clone the repository
+- yarn install
+- yran start
